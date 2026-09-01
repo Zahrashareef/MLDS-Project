@@ -1,0 +1,7 @@
+hidden_pattern_category,cases,zpd_agreements,zpd_agreement_percent,dqn_agreements,dqn_agreement_percent
+consistently_strong,4,2,50.0,0,0.0
+consistently_struggling,4,2,50.0,3,75.0
+declining,4,2,50.0,4,100.0
+improving,4,2,50.0,0,0.0
+mixed_noisy,4,4,100.0,2,50.0
+support_mixed,4,3,75.0,3,75.0

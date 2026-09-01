@@ -1,0 +1,16 @@
+{
+    "review_type": "researcher-practitioner face-validity review",
+    "number_of_cases": 24,
+    "number_of_practitioners": 1,
+    "independent_external_validation": false,
+    "practitioner_vs_zpd_agreement_count": 15,
+    "practitioner_vs_zpd_agreement_percent": 62.5,
+    "practitioner_vs_zpd_cohen_kappa": 0.25,
+    "practitioner_vs_dqn_agreement_count": 12,
+    "practitioner_vs_dqn_agreement_percent": 50.0,
+    "practitioner_vs_dqn_cohen_kappa": -0.0827067669172934,
+    "zpd_dqn_agreement_count": 13,
+    "zpd_dqn_agreement_percent": 54.166666666666664,
+    "zpd_dqn_cohen_kappa": 0.08333333333333337,
+    "interpretation": "Descriptive face-validity comparison only. The practitioner is also the researcher, so the result is not independent expert validation and does not establish causal educational efficacy."
+}

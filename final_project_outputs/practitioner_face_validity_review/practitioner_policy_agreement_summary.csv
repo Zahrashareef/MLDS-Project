@@ -1,0 +1,3 @@
+comparison,cases,agreements,agreement_percent,cohen_kappa
+Researcher-practitioner vs Simple ZPD rule,24,15,62.5,0.25
+Researcher-practitioner vs Standard Double DQN,24,12,50.0,-0.0827067669172934

@@ -1,0 +1,39 @@
+{
+    "review_type": "researcher-practitioner face-validity review",
+    "number_of_cases": 24,
+    "number_of_practitioners": 1,
+    "practitioner_role": "researcher-practitioner",
+    "practitioner_teaching_experience_years": 5,
+    "external_participant_responses_used": false,
+    "independent_external_validation": false,
+    "history_length": 6,
+    "different_student_per_case": true,
+    "source_population": "held-out test students",
+    "behavioural_pattern_stratification": {
+        "consistently_strong": 4,
+        "consistently_struggling": 4,
+        "improving": 4,
+        "declining": 4,
+        "mixed_noisy": 4,
+        "support_mixed": 4
+    },
+    "zpd_action_stratification": {
+        "allow_independent_attempt": 12,
+        "provide_scaffold": 12
+    },
+    "action_A_allocation_by_pattern": {
+        "consistently_strong": 2,
+        "consistently_struggling": 2,
+        "improving": 2,
+        "declining": 2,
+        "mixed_noisy": 2,
+        "support_mixed": 2
+    },
+    "readability_filter": "Displayed histories containing both independent first-try success and support use on the same interaction were excluded.",
+    "primary_comparison_policy": "locked BKT-LSTM learner-state estimate with Simple ZPD policy",
+    "case_selection_stratified_by_zpd_action": true,
+    "computational_decisions_visible_during_review": false,
+    "model_retrained_for_review": false,
+    "model_retuned_for_review": false,
+    "interpretation": "Descriptive practitioner face-validity check only; not independent expert validation and not a causal learning-outcome study."
+}

@@ -1,0 +1,58 @@
+RESEARCHER-PRACTITIONER FACE-VALIDITY REVIEW:
+ADAPTIVE SCAFFOLDING
+
+You will review 24 anonymised held-out learner cases.
+
+Each case represents a different learner working on one
+mathematical skill.
+
+For each learner, you will see their previous six
+interactions on that same skill.
+
+Attempt 1 is the oldest interaction.
+Attempt 6 is the most recent interaction.
+
+For each historical interaction, the sheet may show:
+
+- question type
+- difficulty
+- answer type
+- independent first-try performance
+- whether support was used
+
+Independent first-try success means that the learner
+demonstrated successful independent performance on the
+first attempt without recorded support.
+
+No independent first-try success means that the interaction
+did not demonstrate successful independent first-try
+performance.
+
+Support used means that a hint and/or answer-view support
+feature was used.
+
+You will also see available context for the learner's
+next question, including:
+
+- skill / topic
+- question type
+- difficulty
+- answer type
+
+For the learner's next attempt, select one action:
+
+A = Allow independent attempt
+
+B = Provide scaffold / support
+
+Complete each case using your own teaching judgement.
+
+Enter only A or B in the column labelled:
+
+Practitioner choice (A/B)
+
+The computational policy decisions are not shown in the
+response sheet.
+
+This is a researcher-practitioner face-validity review.
+It is not an independent external expert validation study.

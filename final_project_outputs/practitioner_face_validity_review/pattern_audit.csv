@@ -1,0 +1,7 @@
+hidden_pattern_category,cases,different_students,action_A_cases,action_B_cases,mean_success_rate,mean_support_rate,mean_trend,mean_alternations,mean_zpd_independence
+consistently_strong,4,4,2,2,1.0,0.0,0.0,0.0,0.801048755645752
+consistently_struggling,4,4,2,2,0.0,0.9583333333333334,0.0,0.0,0.2626724801957607
+declining,4,4,2,2,0.5,0.29166666666666663,-1.0,1.0,0.5329382829368114
+improving,4,4,2,2,0.5,0.29166666666666663,1.0,1.0,0.758700504899025
+mixed_noisy,4,4,2,2,0.5,0.3333333333333333,-0.3333333333333333,5.0,0.5788276568055153
+support_mixed,4,4,2,2,0.5,0.5,0.0,5.0,0.3807804398238659

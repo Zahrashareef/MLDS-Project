@@ -1,0 +1,4 @@
+decision_source,A_independent,B_scaffold,A_percent,B_percent
+Simple ZPD rule,12,12,50.0,50.0
+Standard Double DQN,1,23,4.166666666666666,95.83333333333334
+Researcher-practitioner,11,13,45.83333333333333,54.166666666666664
