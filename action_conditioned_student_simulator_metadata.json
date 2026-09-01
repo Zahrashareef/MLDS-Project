@@ -1,0 +1,59 @@
+{
+  "target": "next_same_skill_independent_success",
+  "actions": {
+    "0": "no_support",
+    "1": "support_used"
+  },
+  "state_numeric_features": [
+    "bkt_mastery_before",
+    "bkt_pred_correct",
+    "previous_score",
+    "previous_2_score",
+    "previous_hint_log",
+    "previous_saw_answer",
+    "time_gap_log",
+    "previous_attempts_log",
+    "has_previous_same_skill",
+    "has_previous_2_same_skill",
+    "has_previous_time_gap",
+    "previous_interaction_score",
+    "previous_interaction_hint_log",
+    "previous_interaction_saw_answer",
+    "overall_time_gap_log",
+    "has_previous_interaction",
+    "same_skill_as_previous_interaction",
+    "student_prior_interactions_log",
+    "student_running_accuracy",
+    "student_recent_5_accuracy",
+    "student_recent_20_accuracy",
+    "student_recent_5_coverage",
+    "student_recent_20_coverage",
+    "student_correct_streak_log",
+    "student_incorrect_streak_log",
+    "student_running_hint_rate",
+    "student_running_answer_view_rate",
+    "student_recent_10_support_rate",
+    "student_has_history",
+    "final_lstm_pred_correct",
+    "prediction_mean",
+    "bkt_lstm_signed_disagreement",
+    "bkt_lstm_absolute_disagreement",
+    "bkt_prediction_uncertainty",
+    "lstm_prediction_uncertainty"
+  ],
+  "state_categorical_features": [
+    "skill_code",
+    "problem_type_code",
+    "answer_type_code",
+    "difficulty_code"
+  ],
+  "common_support_threshold": 0.05,
+  "training_rows": 748088,
+  "validation_rows": 95901,
+  "validation_metrics": {
+    "AUC": 0.7354346320294068,
+    "RMSE": 0.4541970757561215,
+    "Accuracy": 0.6766665623924673,
+    "LogLoss": 0.598904115709279
+  }
+}
