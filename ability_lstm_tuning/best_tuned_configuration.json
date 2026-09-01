@@ -1,0 +1,14 @@
+{
+    "config_name": "T3_large_128",
+    "lstm_units": 128,
+    "second_lstm_units": null,
+    "dense_units": 64,
+    "problem_embedding_dim": 64,
+    "input_dropout": 0.15,
+    "lstm_dropout": 0.25,
+    "dense_dropout": 0.15,
+    "learning_rate": 0.0005,
+    "validation_AUC": 0.8134442688394452,
+    "validation_RMSE": 0.4100863108974714,
+    "validation_Accuracy": 0.7503077465529293
+}
