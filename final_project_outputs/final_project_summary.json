@@ -1,0 +1,39 @@
+{
+    "dataset": {
+        "held_out_students": 500,
+        "held_out_interactions": 161070,
+        "test_decision_rows": 82275,
+        "test_student_skill_episodes": 8532,
+        "test_sequential_transitions": 70933,
+        "test_common_support_percent": 57.40733842428758
+    },
+    "learner_models": {
+        "BKT_test_AUC": 0.7261228074430628,
+        "BKT_LSTM_test_AUC": 0.7839813594314773,
+        "BKT_LSTM_minus_BKT_AUC": 0.0578585519884145,
+        "base_dynamics_test_AUC": 0.7179974481406242
+    },
+    "final_policy_test": {
+        "best_policy": "simple_zpd_rule",
+        "best_reward_per_step": 0.5763360366888717,
+        "selected_DRL": "standard_double_dqn",
+        "standard_DQN_reward_per_step": 0.5729665737297083,
+        "ZPD_reward_per_step": 0.5763360366888717,
+        "standard_DQN_minus_ZPD": -0.003369462959163405,
+        "standard_DQN_beats_ZPD": false,
+        "standard_DQN_beats_random": true,
+        "standard_DQN_beats_never": true
+    },
+    "sensitivity": {
+        "scenarios_tested": 9,
+        "scenarios_DQN_beats_ZPD": 1,
+        "scenarios_ZPD_equal_or_better": 8
+    },
+    "methodological_status": {
+        "test_used_for_tuning": false,
+        "environment_type": "semi-synthetic",
+        "historical_support_effect_interpreted_as_causal": false,
+        "final_DRL_architecture": "Standard Double DQN",
+        "final_development_architecture_locked_before_test": true
+    }
+}

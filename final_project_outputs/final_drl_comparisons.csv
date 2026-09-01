@@ -1,0 +1,5 @@
+comparison,reward_difference,relative_difference_percent
+Standard DQN vs ZPD,-0.003369462959163405,-0.5846351337878202
+Standard DQN vs Random,0.01506321000633648,2.699967590409681
+Standard DQN vs Never scaffold,0.03496673803831518,6.499395672375775
+Standard DQN vs Always scaffold,-0.002997756139013985,-0.5204760058139806
